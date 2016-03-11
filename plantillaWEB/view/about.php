@@ -1,6 +1,6 @@
 {% extends "layout.php" %}
 
-{% block tabActivo %}about{% endblock tabActivo %}
+{% block tabActivo %}About{% endblock tabActivo %}
 
 {% block cuerpo %}
 

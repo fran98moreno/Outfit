@@ -1,6 +1,6 @@
 {% extends "layout.php" %}
 
-{% block tabActivo %}comentarios{% endblock tabActivo %}
+{% block tabActivo %}Comentarios{% endblock tabActivo %}
 
 {% block cuerpo %}
 
